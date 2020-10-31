@@ -7,7 +7,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "odnosvaznui_spisok", "odnos
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2DDC34ED-5086-4328-B41F-02A19A05CCB5}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		index.html = index.html
+		NewFileForBranch.txt = NewFileForBranch.txt
 		script.js = script.js
 	EndProjectSection
 EndProject
