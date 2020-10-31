@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  odnosvaznui_spisok.cpp
+c:\users\asus x555l\source\repos\odnosvaznui_spisok\odnosvaznui_spisok\odnosvaznui_spisok.cpp(111): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+  odnosvaznui_spisok.vcxproj -> C:\Users\Asus X555L\source\repos\odnosvaznui_spisok\Debug\odnosvaznui_spisok.exe
